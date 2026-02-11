@@ -245,7 +245,7 @@ The relay servers are typically provided and controlled by the actor group behin
 
 _AiTM phishing through synchronous relay diagram (initial figure from Microsoft Defender XDR Threat Intelligence reports)._
 
-- [Adversary-in-the-Middle Attacks](Adversary-in-the-middle.md)
+- [Adversary-in-the-Middle Attacks](Adversary-in-the-Middle.md)
 
 ## How to become part of the project and contribute?
 - **Update or new content (Pull Request):** As already mentioned, we like to have a living document which is driven by the Entra community! Share your results and insights as part of this project! Send a pull request to add your content to this project.
